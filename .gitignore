@@ -1,3 +1,5 @@
+*.swp
+*.pyc
 CMakeCache.txt
 CMakeFiles
 Makefile
